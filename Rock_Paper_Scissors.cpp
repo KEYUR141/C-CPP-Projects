@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
-using namespace std
+using namespace std;
 
 class Game {
     private:
